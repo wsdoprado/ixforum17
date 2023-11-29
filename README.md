@@ -13,4 +13,11 @@ Apresentação IX Forum 17
 
 ### Bibliotecas Python para Instalar
 
+##### pip3 install nornir
+##### pip3 install nornir_napalm
+##### pip3 install nornir_netmiko
+##### pip3 install nornir_rich
+##### pip install nornir-netbox
+
+### Para subir o Netbox em Docker: https://github.com/netbox-community/netbox-docker
 
