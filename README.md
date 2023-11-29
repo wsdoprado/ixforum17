@@ -1,9 +1,6 @@
 # ixforum17
 Apresentação IX Forum 17
 
-
-# ixforum17
-
 ## Repositório de Scripts da Apresentação: Como Automatizar Tarefas com Netbox e Nornir
 
 ##### Para cadastrar no S.O faça:
