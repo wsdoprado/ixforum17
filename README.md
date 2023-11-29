@@ -21,3 +21,5 @@ Apresentação IX Forum 17
 
 ### Para subir o Netbox em Docker: https://github.com/netbox-community/netbox-docker
 
+### É recomendado usar um ambiente virtual no python VENV para instalar todos os pacotes
+
