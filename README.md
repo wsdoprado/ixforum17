@@ -5,11 +5,11 @@ Apresentação IX Forum 17
 
 ##### Para cadastrar no S.O faça:
 
-export NETBOX_URL=http://localhost:8000
-export NETBOX_TOKEN=(CRIAR TOKEN NO NETBOX)
-export USER=admin
-export PASSWORD=admin
-export SSH_PORT=22
+##### export NETBOX_URL=http://localhost:8000
+##### export NETBOX_TOKEN=(CRIAR TOKEN NO NETBOX)
+##### export USER=admin
+##### export PASSWORD=admin
+##### export SSH_PORT=22
 
 ### Bibliotecas Python para Instalar
 
