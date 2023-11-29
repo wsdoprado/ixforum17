@@ -3,7 +3,7 @@ Apresentação IX Forum 17
 
 ## Repositório de Scripts da Apresentação: Como Automatizar Tarefas com Netbox e Nornir
 
-##### Para cadastrar no S.O faça:
+##### Variáveis de ambiente para cadastrar no Sistema Operacional (Linux Ubuntu):
 
 ##### export NETBOX_URL=http://localhost:8000
 ##### export NETBOX_TOKEN=(CRIAR TOKEN NO NETBOX)
