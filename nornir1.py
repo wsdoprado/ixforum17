@@ -10,7 +10,7 @@ from nornir_netmiko.tasks.netmiko_send_command import netmiko_send_command
 
 
 nr = InitNornir(
-  runner={"plugin": "threaded", "options": {"num_workers": 50}},
+  runner={"plugin": "threaded", "options": {"num_workers": 20}},
   config_file="hosts.yaml")
 
 
