@@ -8,7 +8,9 @@ from nornir import InitNornir
 from nornir_napalm.plugins.tasks import napalm_get
 from nornir_rich.functions import print_result
 
-nr = InitNornir(config_file="hosts.yaml")
+nr = InitNornir(
+  runner={"plugin": "threaded", "options": {"num_workers": 20}},
+  config_file="hosts.yaml")
 
 r2 = nr.filter(name="R2")
 
