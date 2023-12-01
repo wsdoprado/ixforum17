@@ -10,6 +10,7 @@ from nornir_rich.functions import print_result
 import os
 
 nr = InitNornir(
+        runner={"plugin": "threaded", "options": {"num_workers": 20}},
         inventory={
             "plugin": "NetBoxInventory2",
             "options": {
